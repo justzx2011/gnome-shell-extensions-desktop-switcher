@@ -14,6 +14,6 @@ You should have received a copy of the GNU General Public License along with
 this file. If not, see <http://www.gnu.org/licenses/>.
 
 
-衍生自 Desktop Scroller 与 ClickEdge2SwitchWorkspace
+衍生自 _Desktop Scroller_ 与 _ClickEdge2SwitchWorkspace_
 
-forked from _Desktop Scroller_ and _ClickEdge2SwitchWorkspace_
+forked from [Desktop Scroller](https://extensions.gnome.org/extension/136/desktop-scroller/) and [ClickEdge2SwitchWorkspace](https://github.com/mfs6174/ClickEdge2SwitchWorkspace)
